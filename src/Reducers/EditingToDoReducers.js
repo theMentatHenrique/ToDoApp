@@ -7,7 +7,7 @@ import {
 
 const INITIAL_STATE	= {
 	id: null,
-	text: '1123',
+	text: '',
 	done: false
 };
 
